@@ -1,3 +1,4 @@
+![QuickBiz Logo](https://github.com/PhuocThienTran/QuickBiz/blob/main/QuickBiz.png)
 # Project: QuickBiz
 <!--attach a picture of the video, then link it with a link here-->
 QuickBiz is a smart card prototype that uses the latest QR technology for you to store any kind of information - whether it be websites, email addresses, text messages, events, contact information, or physical locations. You can customise the QR code in any shape or colours, and either a physical or a digital smart card. 
