@@ -1,4 +1,6 @@
-![QuickBiz Logo](https://github.com/PhuocThienTran/QuickBiz/blob/main/QuickBiz.png)
+<p align="center">
+  ![QuickBiz Logo](https://github.com/PhuocThienTran/QuickBiz/blob/main/QuickBiz.png)
+</p>
 # Project: QuickBiz
   <p align="center">
     <a href="https://github.com/PhuocThienTran/QuickBiz/blob/main/RPReplay_Final1605664511.mov"><img src="VideoScreen.png" height="400"></a>
